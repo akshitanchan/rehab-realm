@@ -1,4 +1,0 @@
-repository "Rehab Realm@akshitatuni@cloud"
-  path "/"
-    br "/main"
-    co "/main"
